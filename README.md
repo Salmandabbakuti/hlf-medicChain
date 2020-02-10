@@ -15,10 +15,10 @@ The ability of blockchain systems to pinpoint the origin of data makes them part
 ##### Participants
  
  1. Regulator(Health Administration) : A government entity has an authority to regulate medical products and also has ability to register other participants on the system, giving licenses for production & selling of medicines.
- 2. Manufacturer:  Produces goods and takes orders from the Pharmacy and Authorization by Regulator.
+ 2. Manufacturer:  Produces goods and takes orders from the Pharmacy and authorization by Regulator.
  3. Distributor or Wholesaler: A person or entity that distribute large quantity of medical products from manufacturers to the retaier.
- 4. Retailer(Pharmacy Stores): Sells medical products to Consumers based on Doctor Prescription.
- 5. Doctor: No Special intro. Writes prescription of medicine to heal their patients.
+ 4. Retailer(Pharmacy Stores): Sells medical products to consumers based on Doctor prescription.
+ 5. Doctor: No special intro. Writes prescription of medicine to heal their patients.
  6. Consumer: Patient
 
 ##### Work-flow:
@@ -37,7 +37,7 @@ The main transactions of the system at this stage for prposed model are,
 6. Sale of medicine to the Consumer based on doctor prescription.
 
 ##### Terminologies Used in Chaincode:
-
+ >In Progress..
 ##### User Interface:
 
  >Not yet implemented.
