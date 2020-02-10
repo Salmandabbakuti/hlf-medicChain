@@ -6,13 +6,15 @@ Hyperledger Fabric.
 ##### Background
 
 Medicines move through a supply chain in which several participants participate. These usually include the manufacturer, wholesaler and retailer and finally consumer. They are engaged in the production, transportation and sale of these products. Also in these systems, there is a key participant - the regulating authority responsible for each stage of the movement of batches of products throughout the chain. In particular, at the state level, this participant may be some authorized body of the state apparatus, for example, a special Agency for the control of turnover of medicinal products. 
+
 Pharmaceutical companies that manufacture, ship and supply products face difficulties in tracking their products, allowing counterfeiters to inject counterfeit drugs into the system.This situation is observed in many countries around the world. In a recent report by the world health Organization, drug counterfeiting has been identified as a global problem. 
+
 The ability of blockchain systems to pinpoint the origin of data makes them particularly suitable for pharmaceutical supply chain applications. The data stored in the blockchain distributed register on the identification of drugs produced by the plant, as well as records of their movements throughout the supply chain, can accurately determine the authenticity of pharmaceutical products lying on the shelves of pharmacies. A properly designed system based on blockchain technology can significantly simplify the process of drug turnover control for authorized state bodies. At the same time, a decentralized approach has a number of advantages that increase the information security of such systems compared to centralized counterparts.
 
 
 ##### Participants
  
- 1. Regulator(Health Administration) : A government entity has an Authority to regulate medical products and also has ability to register other participants on the system, giving licenses for production of medicines and sale them officially.
+ 1. Regulator(Health Administration) : A government entity has an authority to regulate medical products and also has ability to register other participants on the system, giving licenses for production & selling of medicines.
  2. Manufacturer:  Produces goods and takes orders from the Pharmacy and Authorization by Regulator.
  3. Distributor or Wholesaler: A person or entity that distribute large quantity of medical products from manufacturers to the retaier.
  4. Retailer(Pharmacy Stores): Sells medical products to Consumers based on Doctor Prescription.
@@ -26,8 +28,8 @@ The ability of blockchain systems to pinpoint the origin of data makes them part
 
 The main transactions of the system at this stage for prposed model are,
 
-1. Participants Registration and Approval of Licenses to Different Participants by Regulator 
-2. Adding Manufactured medicine Data to the ledger by Manufacturer.
+1. Participants registration and approval of licenses to different Participants by Regulator 
+2. Adding manufactured medicine data to the ledger by Manufacturer.
 3. Retailer orders certain units of medicine
 4. Transfer of medicine units to the distributor by Manufacturer.
 5. Transfer of medicine units to the Retailer by distributor.
