@@ -35,6 +35,16 @@ The main transactions of the system at this stage for prposed model are,
 5. Transfer of medicine units to the Retailer by distributor.
 6. Doctor Prescription to the patient.
 6. Sale of medicine to the Consumer based on doctor prescription.
+##### Data Structure:
+###### Order:
+<img align="center" src="https://github.com/Salmandabbakuti/hlf-medicChain/blob/master/orderer.png" width="90%">
+
+###### Drug UUID:
+<img align="center" src="https://github.com/Salmandabbakuti/hlf-medicChain/blob/master/uuid.png" width="90%">
+
+###### History Chain:
+<img align="center" src="https://github.com/Salmandabbakuti/hlf-medicChain/blob/master/uuid2.png" width="90%">
+
 
 ##### Terminologies Used in Chaincode:
  >In Progress..
